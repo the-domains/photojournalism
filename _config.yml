@@ -1,0 +1,28 @@
+name: photojournalism
+favicon: null
+layout_spectrum: 0.06580522703006864
+typography_spectrum: 0.551611042348668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5006189858540893
+  lightness: 0.806753235636279
+  saturation: 0.8354860232211649
+  rhythmicContrast: 0.9461532784625888
+purpose: []
